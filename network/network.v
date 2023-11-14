@@ -9,7 +9,7 @@ pub struct Network {
 }
 
 pub fn (mut n Network) init() {
-    println("Network is starting")
+    println("Network is starting...")
 
 
     mut c := net.listen_udp(':${port}') or { return }
@@ -19,3 +19,4 @@ pub fn (mut n Network) init() {
         read, addr := c.read(mut buf) or { continue }
     }
 }
+//
