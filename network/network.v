@@ -19,4 +19,3 @@ pub fn (mut n Network) init() {
         read, addr := c.read(mut buf) or { continue }
     }
 }
-//
