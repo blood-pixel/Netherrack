@@ -6,4 +6,7 @@
 		</picture>
 	</a><br>
 	<b>Netherrack, is an advanced, stunning and easy-to-use server software written in V for Minecraft: Bedrock Edition servers.</b>
+	
 </p>
+
+- Continuation of [Netherrack](https://github.com/scuderia666/netherrack)
