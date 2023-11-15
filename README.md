@@ -11,8 +11,11 @@
 
 - Continuation of [Netherrack](https://github.com/scuderia666/netherrack)
 
-##How to Install?
+## How to install?
 To build it, you have to install [V]("https://github.com/vlang/v#installing-v-from-source") in your machine. Then;
 
 - `git clone https://github.com/blood-pixel/Netherrack`
 - `v run netherrack.v` & run Netherrack.exe
+
+### Notice
+> The first versions may seem like vanilla software(like official Bedrock Edition software), but it probably will not be like that :c
