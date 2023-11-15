@@ -17,5 +17,6 @@ pub fn (mut n Network) init() {
     mut buf := []u8{len: 100}
     for {
         read, addr := c.read(mut buf) or { continue }
+        //todo
     }
 }
