@@ -12,7 +12,7 @@
 - Continuation of [Netherrack](https://github.com/scuderia666/netherrack)
 
 ## How to install?
-To build it, you have to install [V](https://github.com/vlang/v#installing-v-from-source) in your machine. Then;
+To build it, you have to install [Vlang](https://github.com/vlang/v#installing-v-from-source) in your machine. Then;
 
 - `git clone https://github.com/blood-pixel/Netherrack`
 - `v run netherrack.v` & run Netherrack.exe
